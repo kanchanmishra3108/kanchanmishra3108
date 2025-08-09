@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hey there 👋, I'm Kanchan Mishra  
 
-<!--
-**kanchanmishra3108/kanchanmishra3108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Web Developer** | 🚀 **Tech Enthusiast** | 🎨 **UI Lover**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me  
+I’m a passionate web developer who loves building responsive, modern, and interactive web applications.  
+Always eager to learn new tech and turn ideas into reality.  
+
+---
+
+## 🛠 Tech Stack  
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React  
+- **Backend:** Node.js, Express  
+- **Database:** MongoDB, MySQL  
+- **Tools:** Git, GitHub, VS Code  
+
+---
+
+## 🚀 Highlighted Projects  
+1. **Portfolio Website** – [Live Demo](https://your-link.com) | [Repo](https://github.com/username/project)  
+2. **E-commerce App** – [Live Demo](https://your-link.com) | [Repo](https://github.com/username/project)  
+
+---
+
+## 📬 Contact Me  
+📧 Email: kanchanm304@email.com  
+🔗 [LinkedIn](https://linkedin.com/in/yourusername)  
